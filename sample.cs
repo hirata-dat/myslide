@@ -1,4 +1,4 @@
-slass CSClas
+class CSClas
 {
     int a;
      void Start()
