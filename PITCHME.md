@@ -11,9 +11,9 @@
 
 ### ３枚目のスライド
 
-- java
-- Go
-- kotlin
+- java |
+- Go |
+- kotlin |
 
 
 ---
